@@ -78,33 +78,4 @@
 
 ---
 
-## ☕ Random Dev Quote
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-## 🌍 Connect with me
-
-<p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://t.me/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
-
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
