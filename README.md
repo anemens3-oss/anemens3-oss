@@ -19,9 +19,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,git,github,vscode,figma" />
-
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,next,nodejs,express,mongodb,git,github,vscode,figma,linux,npm,vite"/>
 </p>
 
 ---
@@ -29,7 +27,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=anemens3-oss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats-sigma-five.vercel.app/api?username=anemens3-oss&show_icons=true&theme=tokyonight)"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anemens3-oss&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anemens3-oss&theme=tokyonight"/>
 </p>
 
 ---
@@ -72,4 +71,12 @@
 
 ---
 
+<p align="center">
+<img width="700" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif"/>
+</p>
 
+---
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anemens3-oss&theme=tokyonight"/>
+</p>
