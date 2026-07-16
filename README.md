@@ -17,7 +17,9 @@
 ---
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anemens3-oss&theme=tokyonight"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,git,github,vscode,figma" />
+
 </p>
 
 ---
