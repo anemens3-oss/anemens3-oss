@@ -29,7 +29,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anemens3-oss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=anemens3-oss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats-sigma-five.vercel.app/api?username=anemens3-oss&show_icons=true&theme=tokyonight)"/>
 </p>
 
 ---
