@@ -1,9 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=VADIM%20KASHAPOV&fontSize=65&fontColor=00FFFF&animation=fadeIn&fontAlignY=35"/>
 
-<h1 align="center">
-VADIM KASHAPOV
-</h1>
-
 <h3 align="center">
 💻 Frontend Developer | React Developer | Future Full-Stack Engineer
 </h3>
@@ -57,10 +53,10 @@ VADIM KASHAPOV
 
 ---
 
-## 📈 Contribution Graph
+## 🧊 3D Contribution Galaxy
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 </p>
 
 ---
