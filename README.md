@@ -45,7 +45,9 @@
 
 ---
 
-
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-computer.gif" width="700"/>
+</p>
 
 ## 🐍 Snake Eating Contributions
 
