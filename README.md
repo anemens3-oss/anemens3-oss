@@ -53,12 +53,20 @@
 
 ---
 
-## 🧊 3D Contribution Galaxy
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anemens3-oss&theme=tokyonight"/>
+
 </p>
 
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anemens3-oss&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anemens3-oss&theme=tokyonight"/>
+
+</p>
 ---
 
 ## 🐍 Snake Eating Contributions
