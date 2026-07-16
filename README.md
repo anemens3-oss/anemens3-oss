@@ -45,8 +45,10 @@
 
 ---
 
+## 🧊 3D Contribution Galaxy
+
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-computer.gif" width="700"/>
+<img src="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 </p>
 
 ## 🐍 Snake Eating Contributions
