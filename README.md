@@ -72,7 +72,7 @@
 ---
 
 <p align="center">
-<img width="700" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+<img width="700" src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-computer.gif"/>
 </p>
 
 ---
