@@ -1,4 +1,4 @@
-name: Generate 3D Profile
+name: Generate 3D Contribution Profile
 
 on:
   schedule:
@@ -12,14 +12,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: anemens3-oss
-
-      - uses: EndBug/add-and-commit@v9
-        with:
-          message: "Generate 3D contribution"
-          add: "."
