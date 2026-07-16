@@ -1,8 +1,17 @@
-<h1 align="center">Hi there 👋, I'm Vadim Kashapov</h1>
-<h3 align="center">💻 Beginner Frontend/Web Developer from 🌍</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:141E30,100:243B55&text=ANEMENS%20DEV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+
+<h1 align="center">
+👋 Hi, I'm Vadim Kashapov
+</h1>
+
+<h3 align="center">
+💻 Frontend Developer | React Learner | Creative Coder
+</h3>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Developer;Always+Learning+New+Things;HTML+CSS+JavaScript" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;PHP+%26+MySQL+Learner;Building+Cool+Things;Always+Learning+🚀"/>
 </p>
 
 ---
@@ -18,7 +27,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" />
 
 </p>
 
