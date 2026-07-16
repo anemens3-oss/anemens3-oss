@@ -64,7 +64,7 @@
 ## 🐍 Snake Eating Contributions
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anemens3-oss&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anemens3-oss&theme=tokyo-night&hide_border=true" />
 </p>
 
 > Для работы змейки необходимо настроить GitHub Action:
