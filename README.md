@@ -16,10 +16,8 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,next,nodejs,express,mongodb,git,github,vscode,figma,linux,npm,vite"/>
+<img src="https://komarev.com/ghpvc/?username=anemens3-oss&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
@@ -71,12 +69,5 @@
 
 ---
 
-<p align="center">
-<img width="700" src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-computer.gif"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6A00FF,100:00C9FF"/>
 
----
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anemens3-oss&theme=tokyonight"/>
-</p>
