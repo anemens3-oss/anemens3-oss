@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:141E30,100:243B55&text=VADIM%20KASHAPOV&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=VADIM%20KASHAPOV&fontSize=65&fontColor=00FFFF&animation=fadeIn&fontAlignY=35"/>
 
 <h1 align="center">
 👋 Hi, I'm Vadim Kashapov
