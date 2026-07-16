@@ -1,16 +1,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=VADIM%20KASHAPOV&fontSize=65&fontColor=00FFFF&animation=fadeIn&fontAlignY=35"/>
 
 <h1 align="center">
-👋 Hi, I'm Vadim Kashapov
+VADIM KASHAPOV
 </h1>
 
 <h3 align="center">
-💻 Frontend Developer | React Learner | Creative Coder
+💻 Frontend Developer | React Developer | Future Full-Stack Engineer
 </h3>
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;PHP+%26+MySQL+Learner;Building+Cool+Things;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;PHP+%26+MySQL+Learner;Building+Modern+Web+Applications;Always+Learning+🚀"/>
 </p>
 
 ---
