@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=anemens3-oss&style=for-the-badge&color=blueviolet"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anemens3-oss&theme=tokyonight"/>
 </p>
 
 ---
