@@ -52,13 +52,10 @@
 </p>
 ---
 
-## 🤖 Developer Mindset
-
+## 🧊 3D Contribution Galaxy
 
 <p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
+<img src="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 </p>
 
 ---
