@@ -67,9 +67,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anemens3-oss&theme=tokyo-night&hide_border=true" />
 </p>
 
-> Для работы змейки необходимо настроить GitHub Action:
-> https://github.com/Platane/snk
-
 ---
 
 <p align="center">
