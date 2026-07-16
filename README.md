@@ -50,23 +50,17 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=anemens3-oss&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=15"/>
 </p>
-
 ---
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anemens3-oss&theme=tokyonight"/>
-
-</p>
+## 🤖 Developer Mindset
 
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anemens3-oss&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anemens3-oss&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
+
 ---
 
 ## 🐍 Snake Eating Contributions
