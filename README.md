@@ -13,7 +13,6 @@
 - 💻 Создаю сайты и веб-приложения
 - 📚 Каждый день изучаю что-то новое
 - 🎯 Цель — стать сильным Frontend Developer
-- ⚡ Люблю аниме, технологии и кофе ☕
 
 ---
 
@@ -72,8 +71,6 @@
 > https://github.com/Platane/snk
 
 ---
-
-## 🎌 Anime GIF
 
 <p align="center">
 <img width="500" src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-computer.gif"/>
