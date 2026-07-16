@@ -64,7 +64,7 @@
 ## 🐍 Snake Eating Contributions
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anemens3-oss&theme=tokyo-night"/>
 </p>
 
 > Для работы змейки необходимо настроить GitHub Action:
