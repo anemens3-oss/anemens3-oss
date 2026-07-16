@@ -45,20 +45,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anemens3-oss&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=15"/>
-</p>
----
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/main/profile-3d-contrib/profile-night-view.svg"/>
-
-</p>
-
----
 
 ## 🐍 Snake Eating Contributions
 
