@@ -72,7 +72,7 @@
 ---
 
 <p align="center">
-<img width="700" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif"/>
+<img width="700" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 </p>
 
 ---
