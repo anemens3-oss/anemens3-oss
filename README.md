@@ -46,13 +46,7 @@
 </p>
 
 ---
-## 🌌 GitHub Skyline
 
-<p align="center">
-
-<img src="https://skyline.github.com/anemens3-oss/2025.svg"/>
-
-</p>
 
 ## 🐍 Snake Eating Contributions
 
