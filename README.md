@@ -47,12 +47,12 @@
 
 ---
 
-## 🧊 3D Contribution Galaxy
+<h2 align="center">
+🧊 3D Contribution Galaxy
+</h2>
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-
+<img src="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/profile-3d-contrib/profile-night-rainbow.svg"/>
 </p>
 
 ## 🐍 Snake Eating Contributions
