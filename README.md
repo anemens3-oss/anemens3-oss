@@ -40,7 +40,9 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anemens3-oss&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -48,7 +50,9 @@
 ## 🧊 3D Contribution Galaxy
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+
 </p>
 
 ## 🐍 Snake Eating Contributions
