@@ -46,11 +46,12 @@
 </p>
 
 ---
-
-## 👾 Pacman Contributions
+## 🌌 GitHub Skyline
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/output/pacman-contribution-graph.svg"/>
+
+<img src="https://skyline.github.com/anemens3-oss/2025.svg"/>
+
 </p>
 
 ## 🐍 Snake Eating Contributions
