@@ -58,8 +58,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anemens3-oss&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9&count_private=true&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anemens3-oss&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&langs_count=8&cache_seconds=1800" height="165"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anemens3-oss&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&langs_count=8&cache_seconds=1800" height="165"/>
 
 </div>
 
