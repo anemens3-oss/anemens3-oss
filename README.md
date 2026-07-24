@@ -1,139 +1,74 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=VADIM%20KASHAPOV&fontSize=60&fontColor=00FFFF&animation=fadeIn&fontAlignY=35"/>
+<div align="center">
 
-<h3 align="center">
-💻 Frontend Developer | React Developer | Future Full-Stack Engineer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Welcome%20to%20Vadim's%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%3C/%3E&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;PHP+%26+MySQL+Learner;Building+Modern+Web+Applications;Always+Learning+%F0%9F%9A%80"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;Learning+JS+%26+React;Git+%2B+Docker+enthusiast" alt="Typing SVG" />
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=anemens3-oss&style=for-the-badge&color=00FFFF"/>
-</p>
+<br>
 
----
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anemens)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/anemens)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anemens3@gmail.com)
 
-## 🌐 Connect with me
+</div>
 
-<p align="center">
-<a href="https://t.me/USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-<a href="https://discord.com/users/ID" target="_blank">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-<a href="https://www.reddit.com/user/USERNAME/" target="_blank">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/@USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-<a href="mailto:example@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+<br>
 
-> ⚠️ Замени `USERNAME`, `ID` и `example@gmail.com` на свои реальные данные перед публикацией.
+## 📌 Обо мне
 
----
+Привет! Я **Вадим Кашапов**, frontend веб-разработчик. Изучаю JavaScript и React, работаю с Git и Docker.
 
-## 📌 About Me
+<br>
 
-Привет! Я Вадим — Frontend Developer, изучаю JavaScript и React, создаю сайты и веб-приложения. Каждый день учусь чему-то новому и двигаюсь к цели стать сильным Full-Stack разработчиком.
+## 🛠️ Технологии
 
-- 🌱 Сейчас изучаю **JavaScript, React, PHP, MySQL**
-- 💻 Пишу код на Arch Linux с Hyprland
-- 🎯 Цель — стать Full-Stack Developer
-- 🎨 Увлекаюсь UI-дизайном и open source
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,docker&theme=dark" />
 
-## ⚡ Tech Stack
+</div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,git,github,vscode,linux,docker,figma"/>
-</p>
+<br>
 
----
+## 📊 Статистика
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anemens3-oss&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anemens3-oss&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=anemens3-oss&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anemens3-oss&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9" height="165"/>
 
-## 🔥 GitHub Streak
+</div>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anemens3-oss&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-## 📈 Contribution Graph
+<img src="https://streak-stats.demolab.com?user=anemens3-oss&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anemens3-oss&theme=tokyo-night&hide_border=true"/>
-</p>
+</div>
+
+<br>
+
+## 📈 График контрибуций
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anemens3-oss&theme=github-compact&bg_color=0d0d0d&color=ffffff&line=ffffff&point=ffffff&hide_border=true" width="100%"/>
+
+</div>
+
+<br>
 
 ## 🐍 Snake Eating Contributions
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-## 📖 Currently Learning
+</div>
 
-- ⚛ React
-- 🌐 REST API
-- 🐘 PHP
-- 🗄 MySQL
-- 🐳 Docker
+<br>
 
----
+<div align="center">
 
-## 💻 Development Environment
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=100&section=footer"/>
 
-```yaml
-OS       :: Arch Linux
-Editor   :: VS Code
-Browser  :: Chrome
-Terminal :: Kitty
-Shell    :: Zsh
-WM       :: Hyprland
-Theme    :: HyDE
-```
-
----
-
-## ⚡ Fun Facts
-
-- 🐧 Arch Linux user
-- 💙 Love React
-- 🎨 Like modern UI
-- 🚀 Open Source enthusiast
-
----
-
-## 💬 Quote
-
-> "First, solve the problem. Then, write the code."
-> — John Johnson
-
----
-
-<p align="center">
-<img width="700" src="https://user-images.githubusercontent.com/74038190/240885185-1e2c4d63-9919-4b8e-bbe7-f387f92bff1f.gif">
-</p>
-
----
-
-## ⭐ Thanks for visiting!
-
-Если тебе нравятся мои проекты — ставь ⭐ на репозиториях.
-
-**Happy Coding 🚀**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6A00FF,100:00C9FF"/>
+</div>
