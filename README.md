@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner (1).svg" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;Learning+JS+%26+React;Git+%2B+Docker+enthusiast" alt="Typing SVG" />
 
@@ -16,7 +16,7 @@
 
 ## 📌 Обо мне
 
-<img align="right" width="160" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+<img align="right" width="160" src="assets/coder.svg"/>
 
 > 👋 Привет! Я **Вадим Кашапов** — frontend веб-разработчик
 >
@@ -39,7 +39,12 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,docker&theme=dark" />
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -61,6 +66,20 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=anemens3-oss&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+
+</div>
+
+<br>
+
+## 💻 Терминал
+
+<div align="center">
+
+<img src="assets/terminal.svg" width="100%"/>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=anemens3-oss&color=0d0d0d&style=flat-square&label=Profile+Views)
 
 </div>
 
