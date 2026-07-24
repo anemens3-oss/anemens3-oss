@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Welcome%20to%20Vadim's%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%3C/%3E&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Vadim%20Kashapov&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;Learning+JS+%26+React;Git+%2B+Docker+enthusiast" alt="Typing SVG" />
 
@@ -16,7 +16,20 @@
 
 ## 📌 Обо мне
 
-Привет! Я **Вадим Кашапов**, frontend веб-разработчик. Изучаю JavaScript и React, работаю с Git и Docker.
+> 👋 Привет! Я **Вадим Кашапов** — frontend веб-разработчик
+>
+> 🚀 Изучаю **JavaScript** и **React**
+>
+> 🐳 Работаю с **Git** и **Docker**
+>
+> 🎯 Пишу код, который приятно читать
+
+<div align="center">
+
+![Focus](https://img.shields.io/badge/Focus-Frontend%20Development-000000?style=flat-square&labelColor=1a1a1a)
+![Learning](https://img.shields.io/badge/Learning-React-000000?style=flat-square&labelColor=1a1a1a)
+
+</div>
 
 <br>
 
@@ -34,8 +47,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anemens3-oss&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anemens3-oss&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anemens3-oss&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9&count_private=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anemens3-oss&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&langs_count=8&cache_seconds=1800" height="165"/>
 
 </div>
 
