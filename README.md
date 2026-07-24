@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner (1).svg" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;Learning+JS+%26+React;Git+%2B+Docker+enthusiast" alt="Typing SVG" />
 
@@ -52,13 +52,10 @@
 
 ## 📊 Статистика
 
-<!-- Если карточки ниже не грузятся — публичный сервер github-readme-stats.vercel.app перегружен.
-     Задеплой свою копию за 2 минуты: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-     Затем замени "github-readme-stats.vercel.app" на свой домен в двух ссылках ниже. -->
-
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anemens3-oss&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&langs_count=8&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats-sigma-roan-96.vercel.app/api?username=anemens3-oss&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9&count_private=true" height="165"/>
+<img src="https://github-readme-stats-sigma-roan-96.vercel.app/api/top-langs/?username=anemens3-oss&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&langs_count=8" height="165"/>
 
 </div>
 
