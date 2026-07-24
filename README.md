@@ -38,48 +38,21 @@
 
 ---
 
-## 👨‍💻 About Me
+## 📌 About Me
 
-```javascript
-const Vadim = {
-    location: "Russia",
-    role: "Frontend Developer",
+Привет! Я Вадим — Frontend Developer, изучаю JavaScript и React, создаю сайты и веб-приложения. Каждый день учусь чему-то новому и двигаюсь к цели стать сильным Full-Stack разработчиком.
 
-    learning: [
-        "JavaScript",
-        "React",
-        "PHP",
-        "MySQL"
-    ],
-
-    hobbies: [
-        "Linux",
-        "Open Source",
-        "UI Design",
-        "Anime"
-    ],
-
-    goal: "Become a Full Stack Developer 🚀"
-};
-```
+- 🌱 Сейчас изучаю **JavaScript, React, PHP, MySQL**
+- 💻 Пишу код на Arch Linux с Hyprland
+- 🎯 Цель — стать Full-Stack Developer
+- 🎨 Увлекаюсь UI-дизайном и open source
 
 ---
 
 ## ⚡ Tech Stack
 
-### Frontend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
-
-### Backend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=php,mysql"/>
-</p>
-
-### Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,git,github,vscode,linux,docker,figma"/>
 </p>
 
 ---
@@ -103,36 +76,11 @@ const Vadim = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anemens3-oss&theme=tokyo-night&hide_border=true"/>
 </p>
 
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anemens3-oss&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
-
 ## 🐍 Snake Eating Contributions
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-<a href="https://github.com/anemens3-oss/electronics-store">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anemens3-oss&repo=electronics-store&theme=tokyonight"/>
-</a>
-<a href="https://github.com/anemens3-oss/Casino">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anemens3-oss&repo=Casino&theme=tokyonight"/>
-</a>
-</p>
-
-| Project | Description |
-|---------|-------------|
-| 🛒 ShopZone | Интернет-магазин электроники |
-| 🎰 Casino | Казино на JavaScript |
-| 🌐 Portfolio | Личный сайт |
 
 ---
 
