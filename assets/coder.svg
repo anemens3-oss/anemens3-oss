@@ -1,0 +1,31 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .float { animation: floatY 3s ease-in-out infinite; }
+    @keyframes floatY {
+      0%   { transform: translateY(0px); }
+      50%  { transform: translateY(-10px); }
+      100% { transform: translateY(0px); }
+    }
+    .blink { animation: blink 1.4s steps(1) infinite; }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <g class="float">
+    <!-- head -->
+    <circle cx="100" cy="60" r="26" fill="none" stroke="#ffffff" stroke-width="3"/>
+    <!-- body -->
+    <path d="M70,110 Q100,95 130,110 L130,150 Q100,165 70,150 Z" fill="none" stroke="#ffffff" stroke-width="3"/>
+    <!-- laptop base -->
+    <rect x="60" y="150" width="80" height="8" rx="2" fill="#ffffff"/>
+    <!-- laptop screen -->
+    <rect x="78" y="122" width="44" height="28" rx="2" fill="none" stroke="#c9c9c9" stroke-width="2"/>
+    <!-- screen cursor blink -->
+    <rect x="86" y="132" width="6" height="8" fill="#ffffff" class="blink"/>
+    <!-- floating code brackets -->
+    <text x="35" y="60" font-family="Fira Code, monospace" font-size="20" fill="#8a8a8a">&lt;</text>
+    <text x="155" y="60" font-family="Fira Code, monospace" font-size="20" fill="#8a8a8a">/&gt;</text>
+  </g>
+</svg>
