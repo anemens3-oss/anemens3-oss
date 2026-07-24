@@ -1,29 +1,85 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=VADIM%20KASHAPOV&fontSize=65&fontColor=00FFFF&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=VADIM%20KASHAPOV&fontSize=60&fontColor=00FFFF&animation=fadeIn&fontAlignY=35"/>
 
 <h3 align="center">
 💻 Frontend Developer | React Developer | Future Full-Stack Engineer
 </h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;PHP+%26+MySQL+Learner;Building+Modern+Web+Applications;Always+Learning+%F0%9F%9A%80"/>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;PHP+%26+MySQL+Learner;Building+Modern+Web+Applications;Always+Learning+🚀"/>
+<img src="https://komarev.com/ghpvc/?username=anemens3-oss&style=for-the-badge&color=00FFFF"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌐 Connect with me
 
-- 🌱 Сейчас изучаю **JavaScript, React**
-- 💻 Создаю сайты и веб-приложения
-- 📚 Каждый день изучаю что-то новое
-- 🎯 Цель — стать сильным Frontend Developer
+<p align="center">
+<a href="https://t.me/USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="https://discord.com/users/ID" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="https://www.reddit.com/user/USERNAME/" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="mailto:example@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+> ⚠️ Замени `USERNAME`, `ID` и `example@gmail.com` на свои реальные данные перед публикацией.
 
 ---
 
-<p align="center">
+## 👨‍💻 About Me
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma,linux,docker" />
+```javascript
+const Vadim = {
+    location: "Russia",
+    role: "Frontend Developer",
 
+    learning: [
+        "JavaScript",
+        "React",
+        "PHP",
+        "MySQL"
+    ],
+
+    hobbies: [
+        "Linux",
+        "Open Source",
+        "UI Design",
+        "Anime"
+    ],
+
+    goal: "Become a Full Stack Developer 🚀"
+};
+```
+
+---
+
+## ⚡ Tech Stack
+
+### Frontend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+</p>
+
+### Backend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=php,mysql"/>
+</p>
+
+### Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma"/>
 </p>
 
 ---
@@ -35,18 +91,23 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anemens3-oss&theme=tokyonight"/>
 </p>
 
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anemens3-oss&theme=tokyonight&hide_border=true"/>
-
 </p>
 
----
+## 📈 Contribution Graph
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anemens3-oss&theme=tokyo-night&hide_border=true"/>
+</p>
+
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anemens3-oss&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
 
 ## 🐍 Snake Eating Contributions
 
@@ -56,11 +117,75 @@
 
 ---
 
-- Mario
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br><br>
+## 🚀 Featured Projects
+
+<p align="center">
+<a href="https://github.com/anemens3-oss/electronics-store">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anemens3-oss&repo=electronics-store&theme=tokyonight"/>
+</a>
+<a href="https://github.com/anemens3-oss/Casino">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anemens3-oss&repo=Casino&theme=tokyonight"/>
+</a>
+</p>
+
+| Project | Description |
+|---------|-------------|
+| 🛒 ShopZone | Интернет-магазин электроники |
+| 🎰 Casino | Казино на JavaScript |
+| 🌐 Portfolio | Личный сайт |
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6A00FF,100:00C9FF"/>
+## 📖 Currently Learning
 
+- ⚛ React
+- 🌐 REST API
+- 🐘 PHP
+- 🗄 MySQL
+- 🐳 Docker
+
+---
+
+## 💻 Development Environment
+
+```yaml
+OS       :: Arch Linux
+Editor   :: VS Code
+Browser  :: Chrome
+Terminal :: Kitty
+Shell    :: Zsh
+WM       :: Hyprland
+Theme    :: HyDE
+```
+
+---
+
+## ⚡ Fun Facts
+
+- 🐧 Arch Linux user
+- 💙 Love React
+- 🎨 Like modern UI
+- 🚀 Open Source enthusiast
+
+---
+
+## 💬 Quote
+
+> "First, solve the problem. Then, write the code."
+> — John Johnson
+
+---
+
+<p align="center">
+<img width="700" src="https://user-images.githubusercontent.com/74038190/240885185-1e2c4d63-9919-4b8e-bbe7-f387f92bff1f.gif">
+</p>
+
+---
+
+## ⭐ Thanks for visiting!
+
+Если тебе нравятся мои проекты — ставь ⭐ на репозиториях.
+
+**Happy Coding 🚀**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6A00FF,100:00C9FF"/>
