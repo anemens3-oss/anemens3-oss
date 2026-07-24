@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Vadim%20Kashapov&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;Learning+JS+%26+React;Git+%2B+Docker+enthusiast" alt="Typing SVG" />
 
@@ -16,6 +16,8 @@
 
 ## 📌 Обо мне
 
+<img align="right" width="160" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+
 > 👋 Привет! Я **Вадим Кашапов** — frontend веб-разработчик
 >
 > 🚀 Изучаю **JavaScript** и **React**
@@ -24,14 +26,14 @@
 >
 > 🎯 Пишу код, который приятно читать
 
-<div align="center">
+<div align="left">
 
 ![Focus](https://img.shields.io/badge/Focus-Frontend%20Development-000000?style=flat-square&labelColor=1a1a1a)
 ![Learning](https://img.shields.io/badge/Learning-React-000000?style=flat-square&labelColor=1a1a1a)
 
 </div>
 
-<br>
+<br clear="right"/>
 
 ## 🛠️ Технологии
 
@@ -44,6 +46,10 @@
 <br>
 
 ## 📊 Статистика
+
+<!-- Если карточки ниже не грузятся — публичный сервер github-readme-stats.vercel.app перегружен.
+     Задеплой свою копию за 2 минуты: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+     Затем замени "github-readme-stats.vercel.app" на свой домен в двух ссылках ниже. -->
 
 <div align="center">
 
