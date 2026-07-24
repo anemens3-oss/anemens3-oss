@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%"/>
+<img src="assets/banner (1).svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;Learning+JS+%26+React;Git+%2B+Docker+enthusiast" alt="Typing SVG" />
 
