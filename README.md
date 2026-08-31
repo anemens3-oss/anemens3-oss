@@ -82,13 +82,14 @@ I have experience with:
 ---
 
 ### 📊 GitHub Stats
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="./assets/metrics.stats.svg" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=anemens3-oss&theme=tokyonight&hide_border=true" height="165" />
-</p>
-<p align="center">
-  <img src="./assets/metrics.languages.svg" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anemens3-oss&layout=donut&langs_count=5&hide_border=true&theme=github_dark&stats_format=percentages"
+    width="420"
+    alt="Programming Languages"
+  />
 </p>
 
 
