@@ -92,6 +92,15 @@ I have experience with:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anemens3-oss&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anemens3-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=anemens3-oss&theme=tokyonight&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="./assets/metrics.languages.svg" height="165" />
+</p>
+
+
 ---
 
 ### 📈 Activity Graph
