@@ -16,7 +16,42 @@
 
 ---
 
-### 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
+
+<img
+  align="right"
+  src="https://raw.githubusercontent.com/midnightshady/midnightshady/main/assets/astro-removebg-preview.png"
+  width="280"
+  alt="Developer Illustration"
+/>
+
+**Anemens**, here 👋 — I'm a beginner Web Developer currently learning how to build modern and interactive websites.
+
+I have completed courses in:
+
+- 🧱 HTML
+- 🎨 CSS
+
+Currently learning:
+
+- ⚡ JavaScript
+- 🌐 Web Development
+- 💻 Building real projects
+
+I enjoy creating clean, responsive websites and improving my programming skills through practice and personal projects.
+
+### 🐧 Linux
+
+I'm also interested in Linux and open-source software.
+
+I have experience with:
+
+- Arch Linux
+- Fedora
+- Ubuntu
+- Debian
+
+<br clear="right"/>
 
 
 ---
