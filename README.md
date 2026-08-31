@@ -1,16 +1,18 @@
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="banner" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, Imma anemens3</h1>
+<img src="https://raw.githubusercontent.com/midnightshady/midnightshady/main/assets/ascihand-removebg-preview.png" width="100%" />
 
-<h3 align="center">Frontend / Web Developer (в процессе обучения)</h3>
+<br>
 
-<p align="center"><i>Учусь верстать и оживлять веб-страницы</i></p>
+# Hi 👋, I'm Anemens
 
-<p align="center">
-  Изучаю HTML, CSS и JavaScript, собираю первые проекты и уверенно работаю в Linux.
-</p>
+### 🌐 Web Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Learning+HTML+%26+CSS;Learning+JavaScript;Building+Web+Projects;Linux+Enthusiast;Just+Code+Nig" />
+
+</div>
+
+---
 
 ---
 
