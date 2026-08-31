@@ -1,6 +1,6 @@
-<!-- ====================================================== -->
-<!--                        HEADER                          -->
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                         HEADER                        -->
+<!-- ===================================================== -->
 
 <p align="center">
   <img
@@ -16,19 +16,15 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=C9D1D9&center=true&vCenter=true&width=600&height=45&lines=Learning+HTML+%26+CSS;Learning+JavaScript;Building+Web+Projects;Linux+Enthusiast;Just+Code+Nig"
-    alt="Typing animation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=C9D1D9&center=true&vCenter=true&width=600&height=45&lines=Learning+HTML+%26+CSS;Learning+JavaScript;Building+Web+Projects;Linux+Enthusiast;Just+Code+Nig"
+    alt="Typing Animation"
   />
 </p>
 
-<p align="center">
-  Building websites and learning JavaScript step by step.
-</p>
 
-
-<!-- ====================================================== -->
-<!--                       ABOUT ME                         -->
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                       ABOUT ME                        -->
+<!-- ===================================================== -->
 
 <br>
 
@@ -69,7 +65,7 @@ Arch Linux • Fedora • Ubuntu • Debian
 
 <img
   src="https://raw.githubusercontent.com/midnightshady/midnightshady/main/assets/astro-removebg-preview.png"
-  width="240"
+  width="250"
   alt="Astronaut"
 />
 
@@ -79,9 +75,9 @@ Arch Linux • Fedora • Ubuntu • Debian
 </table>
 
 
-<!-- ====================================================== -->
-<!--                       CONNECT                          -->
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                       CONNECT                         -->
+<!-- ===================================================== -->
 
 <br>
 
@@ -92,24 +88,27 @@ Arch Linux • Fedora • Ubuntu • Debian
 <a href="https://github.com/anemens3-oss">
   <img
     src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"
+    height="35"
     alt="GitHub"
   />
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://t.me/YOUR_USERNAME">
   <img
-    src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4"
+    src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=2AABEE"
+    height="35"
     alt="Telegram"
   />
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
   <img
     src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
+    height="35"
     alt="Gmail"
   />
 </a>
@@ -117,9 +116,9 @@ Arch Linux • Fedora • Ubuntu • Debian
 </p>
 
 
-<!-- ====================================================== -->
-<!--                     TECH STACK                         -->
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                     TECH STACK                        -->
+<!-- ===================================================== -->
 
 <br>
 
@@ -128,9 +127,17 @@ Arch Linux • Fedora • Ubuntu • Debian
 <p align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"
-  height="50"
-  alt="HTML CSS JavaScript Git GitHub VS Code"
+  src="https://skillicons.dev/icons?i=html,css,js"
+  height="48"
+  alt="HTML CSS JavaScript"
+/>
+
+&nbsp;&nbsp;
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode"
+  height="48"
+  alt="Git GitHub VS Code"
 />
 
 </p>
@@ -139,16 +146,16 @@ Arch Linux • Fedora • Ubuntu • Debian
 
 <img
   src="https://skillicons.dev/icons?i=linux,arch,fedora,ubuntu,debian"
-  height="50"
+  height="48"
   alt="Linux Arch Fedora Ubuntu Debian"
 />
 
 </p>
 
 
-<!-- ====================================================== -->
-<!--                    GITHUB STATS                        -->
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                    GITHUB STATS                       -->
+<!-- ===================================================== -->
 
 <br>
 
@@ -156,23 +163,37 @@ Arch Linux • Fedora • Ubuntu • Debian
 
 <p align="center">
 
-<a href="https://github.com/anemens3-oss">
-
 <img
-  align="center"
-  src="https://github-stats-extended.vercel.app/api?username=anemens3-oss&show_icons=true&theme=github_dark&hide_border=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anemens3-oss&theme=github_dark"
   width="500"
   alt="GitHub Stats"
 />
 
-</a>
+</p>
+
+
+<!-- ===================================================== -->
+<!--                 PROGRAMMING LANGUAGES                 -->
+<!-- ===================================================== -->
+
+<br>
+
+<h2 align="center">💡 Programming Languages</h2>
+
+<p align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anemens3-oss&theme=github_dark"
+  width="500"
+  alt="Programming Languages"
+/>
 
 </p>
 
 
-<!-- ====================================================== -->
-<!--                    ACTIVITY GRAPH                      -->
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                   ACTIVITY GRAPH                      -->
+<!-- ===================================================== -->
 
 <br>
 
@@ -183,15 +204,15 @@ Arch Linux • Fedora • Ubuntu • Debian
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=anemens3-oss&theme=github-compact&hide_border=true&area=true"
   width="90%"
-  alt="GitHub Activity Graph"
+  alt="Activity Graph"
 />
 
 </p>
 
 
-<!-- ====================================================== -->
-<!--                         SNAKE                          -->
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                         SNAKE                         -->
+<!-- ===================================================== -->
 
 <br>
 
@@ -208,9 +229,9 @@ Arch Linux • Fedora • Ubuntu • Debian
 </p>
 
 
-<!-- ====================================================== -->
-<!--                        FOOTER                          -->
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                        FOOTER                         -->
+<!-- ===================================================== -->
 
 <br>
 
