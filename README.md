@@ -159,6 +159,7 @@ Arch Linux • Fedora • Ubuntu • Debian
 <a href="https://github.com/anemens3-oss">
 
 <img
+  align="center"
   src="https://github-stats-extended.vercel.app/api?username=anemens3-oss&show_icons=true&theme=github_dark&hide_border=true"
   width="500"
   alt="GitHub Stats"
