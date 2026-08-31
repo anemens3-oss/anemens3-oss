@@ -82,15 +82,15 @@ I have experience with:
 ---
 
 ### 📊 GitHub Stats
-<h2 align="center">📊 GitHub Statistics</h2>
+<div align="center">
+<img src="https://github-readme-stats-sigma-roan-96.vercel.app/api?username=anemens3-oss&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9&count_private=true" height="165"/>
+<img src="https://github-readme-stats-sigma-roan-96.vercel.app/api/top-langs/?username=anemens3-oss&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&langs_count=8" height="165"/>
+</div>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=anemens3-oss&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+</div>
+<br>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anemens3-oss&layout=donut&langs_count=5&hide_border=true&theme=github_dark&stats_format=percentages"
-    width="420"
-    alt="Programming Languages"
-  />
-</p>
 
 
 
