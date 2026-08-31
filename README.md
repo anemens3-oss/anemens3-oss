@@ -18,24 +18,6 @@
 
 ### 🚀 About Me
 
-<table>
-<tr>
-<td width="65%" valign="middle">
-
-**anemens3**, привет — начинающий web-разработчик.
-
-Прошёл курсы по **HTML** и **CSS**, сейчас изучаю **JavaScript**, чтобы делать страницы интерактивными.
-
-Уверенно пользуюсь Linux-дистрибутивами: **Arch, Fedora, Ubuntu, Debian** — люблю настраивать окружение под себя и работать в терминале.
-
-Моя цель: писать чистую вёрстку, разобраться в JS на практике и вырасти в full-stack разработчика.
-
-</td>
-<td width="35%" align="center">
-<img src="./assets/about-pixel.svg" width="180" alt="pixel penguin" />
-</td>
-</tr>
-</table>
 
 ---
 
