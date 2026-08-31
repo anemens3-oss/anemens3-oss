@@ -1,176 +1,189 @@
+<!-- ГОЛОВА ПРОФИЛЯ С АВАТАРКОЙ -->
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/midnightshady/midnightshady/main/assets/ascihand-removebg-preview.png"
-    width="650"
-    alt="Header"
-  />
+  <img src="https://avatars.githubusercontent.com/u/ваш-ник" width="120" height="120" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Anemens</h1>
-
+<h1 align="center">midnight.shady</h1>
 <p align="center">
-  <strong>🌐 Web Developer</strong>
+  <strong>midnightshady · he/him</strong><br>
+  <em>Web-разработчик (начало пути)</em><br>
+  Строю первые веб-приложения с чистым HTML, CSS и JavaScript
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=550&height=40&lines=Learning+HTML+%26+CSS;Learning+JavaScript;Building+Web+Projects;Exploring+Linux"
-    alt="Typing animation"
-  />
+  <a href="#"><img src="https://img.shields.io/badge/Edit%20profile-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<br>
+<p align="center">
+  👥 6 followers · 5 following<br>
+  📍 India<br>
+  🕐 02:06 (UTC -12:00)<br>
+  📧 kalfquresh3672@gmail.com
+</p>
 
-<h2 align="center">🚀 About Me</h2>
+---
 
-<table align="center" width="85%">
+<!-- БОЛЬШОЙ БАННЕР С ПРИВЕТСТВИЕМ -->
+<h2 align="center">
+  👋 Hi, I'm <span style="color:#6f42c1;">[Ваше Имя]</span>
+</h2>
+
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+  Web-разработчик (начало пути)
+</h3>
+
+<p align="center">
+  <em>Just Code & Learn</em>
+</p>
+
+<p align="center">
+  Строю первые веб-приложения с чистым <strong>HTML</strong>, <strong>CSS</strong> и <strong>JavaScript</strong>.<br>
+  Понимаю, как устроены Linux-системы (<strong>Arch</strong>, <strong>Fedora</strong>, <strong>Ubuntu</strong>, <strong>Debian</strong>).
+</p>
+
+---
+
+<!-- ДОСТИЖЕНИЯ С ИКОНКАМИ -->
+<h2>🏆 Achievements</h2>
+
+<table>
   <tr>
-    <td width="65%" valign="middle">
-
-I'm a beginner **Web Developer** focused on learning how to build modern and interactive websites.
-
-🎓 Completed courses in **HTML & CSS**
-
-⚡ Currently learning **JavaScript**
-
-💻 Practicing by building my own web projects
-
-🐧 Interested in **Linux & open-source software**
-
-**Linux:** Arch Linux • Fedora • Ubuntu • Debian
-
-```
-</td>
-<td width="35%" align="center">
-```
-
-<img
-src="https://raw.githubusercontent.com/midnightshady/midnightshady/main/assets/astro-removebg-preview.png"
-width="210"
-alt="Astronaut"
-/>
-
-```
-</td>
-```
-
+    <td valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+    </td>
+    <td>
+      <strong>Начинающий веб-разработчик</strong><br>
+      Прошёл полноценные курсы по <strong>HTML</strong> и <strong>CSS</strong>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+    </td>
+    <td>
+      <strong>Активно учу JavaScript</strong><br>
+      Делаю интерфейсы живыми и интерактивными
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+    </td>
+    <td>
+      <strong>Linux-энтузиаст</strong><br>
+      Работаю в Arch, Fedora, Ubuntu, Debian — умею настраивать окружение
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+    </td>
+    <td>
+      <strong>Планы на будущее</strong><br>
+      React, Node.js, базы данных — хочу строить полноценные веб-сервисы
+    </td>
   </tr>
 </table>
 
-<br>
+---
 
-<h2 align="center">🤝 Connect</h2>
+<!-- КОНТАКТЫ И СОЦСЕТИ С ИКОНКАМИ -->
+<h2>🔗 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/anemens3-oss">
-    <img
-      src="https://skillicons.dev/icons?i=github"
-      width="42"
-      alt="GitHub"
-    />
+  <a href="#">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/YOUR_USERNAME">
-    <img
-      src="https://skillicons.dev/icons?i=telegram"
-      width="42"
-      alt="Telegram"
-    />
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img
-      src="https://skillicons.dev/icons?i=gmail"
-      width="42"
-      alt="Gmail"
-    />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-<br>
+---
 
-<h2 align="center">💻 Tech Stack</h2>
+<!-- ТЕХНОЛОГИИ С ИКОНКАМИ -->
+<h2>🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"
-    height="48"
-    alt="HTML CSS JavaScript Git GitHub VS Code"
-  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+</p>
+
+---
+
+<!-- СТАТИСТИКА GITHUB С ГРАФИКАМИ -->
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ваш-ник&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-ник&layout=compact&theme=radical&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=linux,arch,fedora,ubuntu,debian"
-    height="48"
-    alt="Linux Arch Fedora Ubuntu Debian"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ваш-ник&theme=radical&hide_border=true" width="70%" />
 </p>
 
-<br>
+---
 
+<!-- АКТИВИТИ ГРАФ (как в оригинале) -->
+<h2>📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ваш-ник&theme=react-dark&hide_border=true" width="90%" />
+</p>
+
+<!-- ЦИФРЫ СТАТИСТИКИ (как в оригинальном профиле) -->
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-
-### 📊 GitHub Stats
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anemens3-oss&theme=github_dark"
-width="420"
-alt="GitHub Statistics"
-/>
-
-```
-</td>
-<td align="center" width="50%">
-```
-
-### 💡 Languages
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anemens3-oss&theme=github_dark"
-width="420"
-alt="Programming Languages"
-/>
-
-```
-</td>
-```
-
+    <td align="center">
+      <strong>87</strong><br>
+      <small>Total Contributions</small><br>
+      <small>Apr 1, 2024 - Present</small>
+    </td>
+    <td align="center">
+      <strong>3</strong><br>
+      <small>Longest Stream</small><br>
+      <small>Apr 1, 2024 - Present</small>
+    </td>
+    <td align="center">
+      <strong>3</strong><br>
+      <small>Activity Graph</small>
+    </td>
   </tr>
 </table>
 
-<br>
+---
 
-<h2 align="center">📈 Activity</h2>
+<!-- ЗМЕЙКА (ОСТАВЛЕНА КАК В ОРИГИНАЛЕ) -->
+<h2 align="center">🐍</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=anemens3-oss&theme=github-compact&hide_border=true&area=true"
-    width="88%"
-    alt="GitHub Activity Graph"
-  />
+  <img src="https://github.com/ваш-ник/ваш-ник/blob/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
-<br>
+---
 
-<h2 align="center">🐍 Contributions</h2>
-
+<!-- ПОДВАЛ С ГИФКОЙ -->
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/output/github-contribution-grid-snake-dark.svg"
-    width="88%"
-    alt="Snake animation"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <strong>💻 Learning • Building • Improving</strong>
-</p>
-
-<p align="center">
-  <sub>Thanks for visiting my profile ⭐</sub>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+  <br>
+  <em>Спасибо, что заглянули! 🚀</em>
 </p>
