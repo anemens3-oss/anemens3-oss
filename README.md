@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f13,100:1a1a2e&height=180&section=header&text=&fontSize=0" width="100%"/>
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="banner" />
+</p>
 
 <h1 align="center">Hi 👋, Imma anemens3</h1>
 
@@ -14,6 +16,10 @@
 
 ### 🚀 About Me
 
+<table>
+<tr>
+<td width="65%" valign="middle">
+
 **anemens3**, привет — начинающий web-разработчик.
 
 Прошёл курсы по **HTML** и **CSS**, сейчас изучаю **JavaScript**, чтобы делать страницы интерактивными.
@@ -21,6 +27,13 @@
 Уверенно пользуюсь Linux-дистрибутивами: **Arch, Fedora, Ubuntu, Debian** — люблю настраивать окружение под себя и работать в терминале.
 
 Моя цель: писать чистую вёрстку, разобраться в JS на практике и вырасти в full-stack разработчика.
+
+</td>
+<td width="35%" align="center">
+<img src="./assets/about-pixel.svg" width="180" alt="pixel penguin" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -70,12 +83,15 @@
 
 ---
 
-<!-- 🐍 ЗМЕЙКА — вставь сюда свой существующий блок с contribution-snake, ничего в нём не меняя -->
-<!-- пример того, как он обычно выглядит:
+### 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/output/github-contribution-grid-snake.svg" />
+    <img alt="снейк по контрибьюшенам" src="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
--->
 
 ---
 
